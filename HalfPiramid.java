@@ -8,6 +8,9 @@ public class HalfPiramid {
             for(int j = 1; j<=(2*Rnum-2*i);j++){
                 System.out.print(" ");
             }
+            
+            
+            
             for(int k=1;k<=i;k++){
                 System.out.print(k+" ");
             }
